@@ -6,5 +6,7 @@ git clone https://github.com/thecarllos/terra_manager_doc.git
 
 # Enviar as alterações
 git add .
+
 git commit -m "o que foi alterado"
-git push origin doc
+
+git push origin
